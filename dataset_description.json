@@ -6,10 +6,10 @@
     "Authors": [
         "Arnaud Le Troter",
         "David Meunier",
-	"Julien Sein",
         "Katherine Bryant",
-	"Siham Bouziane",
-	"Adrien Meguerditchian"
+        "Julien Sein",
+        "Siham Bouziane",
+        "Adrien Meguerditchian"
     ],
     "ReferencesAndLinks": [
         "Katherine L. Bryant, Arnaud Le Troter, David Meunier, Yannick Becker, Scott A. Love, Siham Bouziane, Kep Kee Loh1, Julien Sein, Luc Renaud, Olivier Coulon, Adrien Meguerditchian, in submission. Longitudinal MRI template of the baboon brain from birth to adolescence"
@@ -21,5 +21,4 @@
     "EthicsApprovals": [
         "All animal procedures were approved by the Ethical committee of neurosciences C2EA-71  (INT Marseille; APAFIS#13553-201802151547729 v4), and were conducted at the Station de Primatologie (SdP; Rousset-Sur-Arc, France) and the Centre IRM (INT Marseille, Centre Européen en Imagerie Médicale) under agreement C130877 for conducting experiments on vertebrate animals. All methods were performed in accordance with the relevant French law, CNRS guidelines and the European Union regulations (Directive 2010/63/EU)."
     ]
-
 }
